@@ -24,7 +24,7 @@ Kafka, bu projede aşağıdaki amaçlarla kullanılmıştır:
 
 ## Projenin Çalıştırılması
 
-### 1. Repozitory'yi Klonlayın
+### 1. Repository'yi Klonlayın
 
 Proje dosyalarını yerel bilgisayarınıza klonlayın:
 
