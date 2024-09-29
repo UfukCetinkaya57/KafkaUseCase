@@ -1,6 +1,6 @@
 # Kafka ile Sipariş Yönetim Sistemi
 
-Bu proje, bir sipariş yönetim sistemi geliştirmek amacıyla oluşturulmuştur. Projede **Kafka** kullanılarak sipariş olayları işlenmekte ve stok sistemine entegre edilmektedir. Projenin amacı, **Kafka**'nın gerçek zamanlı olay işleme yeteneklerini kullanarak dağıtık bir sistemde mesajlaşma mimarisini sergilemektir.
+Bu proje, bir sipariş yönetim sisteminde kafkanın nasıl kullanıldığını göstermek amaçlı oluşturulan bir prototiptir. Projede **Kafka** kullanılarak sipariş olayları işlenmekte ve stok sistemine entegre edilmektedir. Projenin amacı, **Kafka**'nın gerçek zamanlı olay işleme yeteneklerini kullanarak dağıtık bir sistemde mesajlaşma mimarisini sergilemektir.
 
 ## Projenin Amacı
 
