@@ -1,4 +1,4 @@
-# Kafka Sipariş Yönetim Sistemi - Detaylı Dokümantasyon
+# Kafka Sipariş Yönetim Sistemi
 
 Bu doküman, projenin teknik detayları ve mimari yapısı hakkında daha fazla bilgi sağlar. **Kafka** entegrasyonu ve olay tabanlı mimari hakkında ayrıntılar içerir.
 
