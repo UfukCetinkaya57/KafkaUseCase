@@ -29,7 +29,8 @@ Kafka, bu projede aşağıdaki amaçlarla kullanılmıştır:
 Proje dosyalarını yerel bilgisayarınıza klonlayın:
 
 ```bash
-git clone <repository-url> cd <repository-folder>
+git clone <repository-url> 
+cd <repository-folder>
 ```
 
 ### 2. Docker ile Kafka'yı Başlatma
@@ -59,7 +60,8 @@ docker-compose -f docker-compose-cluster.yml up -d
 API'yi çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
-dotnet run --project Order.API dotnet run --project Stock.API
+dotnet run --project Order.API 
+dotnet run --project Stock.API
 ```
 
 
